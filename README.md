@@ -1,5 +1,4 @@
-# NGL Spammer
-# ProxyChk
+# Proxy-Scraper-and-Checker
 
 ## Overview
 Simple tools to find and check proxies.
@@ -11,7 +10,7 @@ Simple tools to find and check proxies.
 - Checks if proxies are available and writes available proxies to `working_proxies.txt`.
 
 ## Usage
-1. Run `scraper.py`; it builds `Proxies.txt` and then starts `checker.py` for you.
+1. Run `scraper.py`; it builds `proxies.txt` and then starts `checker.py` for you.
 2. Wait for the check to finish and review `working_proxies.txt`. Run again if the network fails.
 
 ## Credits
