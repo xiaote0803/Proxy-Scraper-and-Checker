@@ -19,4 +19,3 @@ Simple tools to find and check proxies.
 ## Credits
 
 These tools are ones I found online and modified; I don't know who the original authors are.💀
-
