@@ -94,7 +94,8 @@ def main():
     print_banner()
     print("\033[1;36mRedirecting to Check Proxy")
     sleep(3)
-    os.system("cls && python Check.py" if os.name == "nt" else "clear && python checker.py")
+    os.system("cls && python checker.py" if os.name == "nt" else "clear && python checker.py")
 
 if __name__ == "__main__":
     main()
+
