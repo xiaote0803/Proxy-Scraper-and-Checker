@@ -70,7 +70,7 @@ def main():
         "https://sunny9577.github.io/proxy-scraper/proxies.txt"
     ]
 
-    print("\033[1;36mProxy Save File: Proxies.txt")
+    print("\033[1;36mProxy Save File: proxies.txt")
 
     for site in proxy_links:
         try:
@@ -98,4 +98,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
